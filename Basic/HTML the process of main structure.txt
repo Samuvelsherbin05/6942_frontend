@@ -1,0 +1,34 @@
+HTML the process of main structure something......
+
+GIT 
+
+git is the software - run on your local system
+it track your local file system - what changes you make - what is the modules change - everything the gut software will read the process.
+
+it will take your file - to the online website called GitHub. 
+
+you can use the git commend.
+
+GIT HUB
+website - web application run on your cloud.
+storage of your files - 
+who will use - 
+
+
+private repo
+public repo
+
+
+local file save.	 and tracking & project demo as a single person.
+
+git init
+git add .
+git commit -m "something your change"
+git branch -M main
+git remote add origin repolink
+git push -u origin main
+
+
+
+
+
