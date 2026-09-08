@@ -1,0 +1,12 @@
+
+
+.Box{
+    background-color: rgb(221, 19, 19);
+    color: antiquewhite;
+    padding: 40px;
+   width: 200px;
+   height: 200px;
+   margin: auto;
+   border: solid 10px;
+}
+
