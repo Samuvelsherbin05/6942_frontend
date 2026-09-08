@@ -1,3 +1,28 @@
+.title{
+    background-color: aquamarine;
+    color: crimson;
+}
+.section{
+    background-color: antiquewhite;
+    color: black;
+}
+.teacher{
+    background-color: blue;
+    color: beige;
+}
+.Topic{
+    background-color: black;
+    color: beige;
+}
 .student{
     background-color: blueviolet;
+    color: darkgrey;
+}
+.Languages{
+    background-color: hotpink;
+    color: wheat;
+}
+.status{
+    background-color: antiquewhite;
+    color: slateblue;
 }
