@@ -1,0 +1,33 @@
+.child{
+    background-color: brown;
+    color: rgb(14, 13, 13);
+    padding: 10px;
+    width: 250px;
+    border: solid 2px;
+    margin: 10px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+
+.laptop{
+    background-color: cadetblue;
+    padding: 20px;
+    width: 250px;
+    border: solid 2px;
+    margin: 10px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.product{
+     background-color: rgb(208, 219, 219);
+    padding: 10px;
+    width: 250px;
+    border: solid 2px;
+    margin: 10px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+}
+

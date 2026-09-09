@@ -1,0 +1,22 @@
+.student{
+    background-color: aqua;
+    padding: 20px;
+    width: 220px;
+    margin:10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+    box-shadow: 5px 5px 10px 10px gray;
+    border-radius: 10px;
+ 
+
+}
+
+
+.student >img{
+    border-radius: 10px;
+}
+
+
+
+
