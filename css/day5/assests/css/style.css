@@ -1,0 +1,119 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.parent{
+    background-color: rgb(236, 10, 10);
+    padding:20px;
+    gap: 10px;
+    display: flex;
+    width: 1200px;
+
+}
+
+.boxone{
+    background-color: rgb(14, 201, 235);
+    color: white;
+    padding: 10px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+.boxone > img{
+    border-radius: 10px;
+    width: 200px;
+}
+
+.btn{
+    background-color: darkorange;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 60px;
+}
+
+.boxtwo{
+    background-color: rgb(14, 201, 235);
+    color: white;
+    padding: 10px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+.boxtwo > img{
+    border-radius: 10px;
+    width:200px;
+}
+
+.btn{
+    background-color: darkorange;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+
+.boxthree{
+    background-color: rgb(14, 201, 235);
+    color: white;
+    padding: 10px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+.boxthree > img{
+    border-radius: 10px;
+     width:200px;
+}
+
+.btn{
+    background-color: darkorange;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 70px;
+}
+
+.boxfour{
+    background-color: rgb(14, 201, 235);
+    color: white;
+    padding: 10px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+.boxfour > img{
+    border-radius: 10px;
+     width:200px;
+}
+
+.btn{
+    background-color: darkorange;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 70px;
+}
+
+.boxfive{
+    background-color: rgb(14, 201, 235);
+    color: white;
+    padding: 10px;
+    width: 380px;
+    border-radius: 10px;
+
+}
+
+.boxfive > img{
+    border-radius: 10px;
+     width:200px;
+}
+
+.btn{
+    background-color: darkorange;
+    padding: 5px;
+    border-radius: 10px;
+    margin-left: 70px;
+}           
