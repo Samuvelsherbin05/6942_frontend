@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.parent{
+    background-color: brown;
+    padding: 10px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+
+   
+    
+    
+}
+
+.boxone{
+    background-color: rgb(231, 6, 175);
+    color: black;
+    padding: 10px;
+    width: 150px;
+    height: 200px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+   
+
+}
+
+.boxtwo{
+     background-color: rgb(236, 34, 8);
+    color: black;
+    padding: 10px;
+    width: 150px;
+     height: 200px;
+      position: absolute;
+      left: 600px;
+}
+     
+
+.boxthree{
+       background-color:rgb(192, 241, 14);
+    color: black;
+    padding: 10px;
+    width: 150px;
+     height: 200px;
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      
+
+}
+
+
+        
