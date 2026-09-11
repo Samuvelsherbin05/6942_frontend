@@ -8,11 +8,12 @@
     background-color: blue;
     padding: 10px;
      gap: 10px;
-    width: 1200px;
-    height: 400px;
+    width: 1400px;
+    height: 600px;
     display: flex;
     justify-content: center;
-    align-items: center; 
+     align-items: center;
+   
     
      
 }
@@ -21,9 +22,11 @@
     background-color: blueviolet;
     color: aliceblue;
     padding: 10px;
-    width: 300px;
+    width: 270px;
     border-radius: 10px;
-    margin-top: 50px;
+     margin-top: 50px;
+     height: 350px;
+  
    
 }
 
@@ -38,9 +41,11 @@
 .btn{
     background-color: brown;
    padding: 9px;
-    border-radius: 5px;
-      margin-left: 50px;
+    border-radius:10px;
+      display: block;
+      margin-left: 80PX;
       border:none;
+      
   
 }
 
@@ -48,9 +53,10 @@
     background-color: blueviolet;
     color: aliceblue;
     padding: 10px;
-    width: 300px;
+    width: 270px;
     border-radius: 10px;
      margin-top: 50px;
+      height: 350px;
    
 
 }
@@ -63,21 +69,15 @@
 
 }
 
-.btn{
-    background-color: brown;
-    padding-right: 10px;
-    border-radius: 10px;
-      margin-left: 50px;
-      border:none;
-}
 
 .boxthree{
     background-color: blueviolet;
     color: aliceblue;
     padding: 10px;
-    width: 300px;
+    width: 270px;
     border-radius: 10px;
      margin-top: 50px;
+      height: 350px;
    
 
 }
@@ -90,21 +90,16 @@
 
 }
 
-.btn{
-    background-color: brown;
-    padding-right: 10px;
-    border-radius: 10px;
-      margin-left: 50px;
-      border:none;
-}
+
 
 .boxfour{
     background-color: blueviolet;
     color: aliceblue;
     padding: 10px;
-    width: 300px;
+    width: 270px;
     border-radius: 10px;
      margin-top: 50px;
+      height: 350px;
    
 
 }
@@ -114,15 +109,8 @@
     width: 250px;
     border-radius: 10px;
 
-
-
 }
 
-.btn{
-    background-color: brown;
-    padding-right: 10px;
-    border-radius: 10px;
-           margin-left: 80px;
-           border:none;
-}
+
+
 
