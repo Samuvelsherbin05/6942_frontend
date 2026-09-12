@@ -1,0 +1,106 @@
+*{
+    padding-inline: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.parent{
+    background-color: aqua;
+    padding: 10px;
+    width: 1050px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    
+}
+
+.boxone{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 90px;
+    border-radius: 20px;
+    top: 10px;
+
+}
+
+.btnone{
+    border-radius: 20px;
+    padding: 10px;
+    
+  
+}
+
+.boxone:hover{
+    background-color: brown;
+    
+    
+}
+
+.btnone:hover{
+    color: rgb(255, 0, 191);
+    
+   
+}
+
+
+.boxtwo{
+    background-color: rgb(255, 0, 157);
+    color: white;
+    padding: 10px;
+    width: 90px;
+    border-radius: 20px;
+    top: 10px;
+
+}
+
+.btntwo{
+    border-radius: 20px;
+    padding: 10px;
+  
+}
+
+.boxtwo:hover{
+    background-color: rgb(42, 130, 165);
+    
+    
+}
+
+.btntwo:hover{
+    color: rgb(255, 60, 0);
+      
+}
+
+
+
+.boxthree{
+    background-color: rgb(141, 248, 0);
+    color: white;
+    padding: 10px;
+    width: 90px;
+    border-radius: 20px;
+    top: 10px;
+
+}
+
+.btnthree{
+    border-radius: 20px;
+    padding: 10px;
+    
+    
+  
+}
+
+.boxthree:hover{
+    background-color: rgb(165, 147, 42);
+   
+    
+}
+
+.btnthree:hover{
+    color: rgb(223, 7, 7);
+        
+
+}
