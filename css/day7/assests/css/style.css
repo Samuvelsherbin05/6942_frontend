@@ -20,7 +20,7 @@
     background-color: blue;
     color: white;
     padding: 10px;
-    width: 90px;
+    width: 70px;
     border-radius: 20px;
     top: 10px;
 
@@ -28,7 +28,7 @@
 
 .btnone{
     border-radius: 20px;
-    padding: 10px;
+    padding: 5px;
     
   
 }
@@ -37,11 +37,12 @@
     background-color: brown;
     
     
+    
 }
 
 .btnone:hover{
     color: rgb(255, 0, 191);
-    
+    border:2px solid black;
    
 }
 
@@ -50,7 +51,7 @@
     background-color: rgb(255, 0, 157);
     color: white;
     padding: 10px;
-    width: 90px;
+    width: 80px;
     border-radius: 20px;
     top: 10px;
 
@@ -58,7 +59,7 @@
 
 .btntwo{
     border-radius: 20px;
-    padding: 10px;
+    padding: 5px;
   
 }
 
@@ -70,6 +71,7 @@
 
 .btntwo:hover{
     color: rgb(255, 60, 0);
+     border:2px solid purple;
       
 }
 
@@ -79,7 +81,7 @@
     background-color: rgb(141, 248, 0);
     color: white;
     padding: 10px;
-    width: 90px;
+    width: 80px;
     border-radius: 20px;
     top: 10px;
 
@@ -87,7 +89,7 @@
 
 .btnthree{
     border-radius: 20px;
-    padding: 10px;
+       padding: 5px;
     
     
   
@@ -100,7 +102,8 @@
 }
 
 .btnthree:hover{
-    color: rgb(223, 7, 7);
+    color:palevioletred;
+     border:2px solid green;
         
 
 }
