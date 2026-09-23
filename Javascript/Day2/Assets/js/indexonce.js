@@ -1,126 +1,105 @@
-var name ="lokesh"
+let name ="deepak"
 console.log(name);
 
-var age ="45"
+let age ="30"
 console.log(age);
 
-var course ="fullstack"
+let course ="mern stack"
 console.log(course);
 
-var language ="spanish"
+let language ="english"
 console.log(language);
 
-var subject ="computer"
+let subject ="tamil"
 console.log(subject);
 
-var hobby="football"
+let hobby="cricket"
 console.log(hobby);
 
-var food ="biriyani"
+ let food ="fishfry"
 console.log(food);
 
 
-var movie="kushi"
+let movie="kgf"
 console.log(movie);
 
 
-var singer ="sidsree ram"
+let singer =" harish jayaraj"
 console.log(singer);
 
 
-var sports ="cricket"
+let sports ="football"
 console.log(sports);
 
+let size =40;
+console.log(size);
 
-var age =23;
-console.log(age);
 
-var marks =90;
+let marks =90.9;
 console.log(marks);
 
 
 
-var salary =50000;
+let salary =50000;
 console.log(salary);
 
-var price =657;
+let price =657;
 console.log(price);
 
-var count =10;
+let count =10;
 console.log(count);
 
 
 
-var score =250;
+let score =250;
 console.log(score);
 
-var year =2027;
+let year =2027;
 console.log(year);
 
 
 
-var quantity =3;
+let quantity =3;
 console.log(quantity);
 
 
-var height =160;
+let height =160;
 console.log(height);
 
 
 
-var percentage =50;
+let percentage =50;
 console.log(percentage);
 
-var isStudent =true;
+let isStudent =true;
 console.log(isStudent);
 
-var isLoggedin =false;
+let isLoggedin =false;
 console.log(isLoggedin);
 
-var isActive =false;
+let isActive =false;
 console.log(isActive);
 
-var isCompleted =true;
+let isCompleted =true;
 console.log(isCompleted);
 
-var isAvailable =true;
+let isAvailable =true;
 console.log(isAvailable);
 
-var username =null;
+let username =null;
 console.log(username);
 
-var userage =null;
+let userage =null;
 console.log(userage);
 
-var active =null;
+let active =null;
 console.log(active);
 
-var city;
+let city;
 console.log(city)
 
-var product;
+let product;
 console.log(product);
 
-var result;
+let result;
 console.log(result);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
