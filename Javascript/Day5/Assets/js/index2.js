@@ -1,27 +1,15 @@
 let number =15;
 
-    
- if (number>=0) {
-    console.log("positive");
-    
- } else {
-    console.log("Negative");
-    
-    
- }     
- 
- let studentnumber =15
+if (number % 2 ===0) {
 
+   console.log("even");
+   
+   
+}
 
- if (studentnumber<=-0) {
-    console.log("positive");
-    
-    
- } else {
-
-    console.log("negative");
-    
-    
- }
+else{
+   console.log("odd");
+   
+}
       
          

@@ -6,8 +6,9 @@ if (age>=18) {
     
 }
 
-if (age<=22) {
-    console.log("Not Eligible to vote");
+else if (age>=24) {
+
+    console.log("not eligible to vote");
     
     
 }
