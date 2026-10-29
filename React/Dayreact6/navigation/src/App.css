@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    width: 0px;
+    box-sizing: border-box;
+
+}
+
+.world {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
